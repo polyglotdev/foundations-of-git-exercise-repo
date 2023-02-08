@@ -75,4 +75,4 @@ When finishing a hotfix, GitKraken Client will merge the changes into both `mast
 
 ### Rebase
 
-Hey look, you are going to rebase this on to
+Hey look, you are going to rebase this on to the rebase branch.
