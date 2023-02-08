@@ -72,5 +72,3 @@ Hotfixes are for quickly pushing out a change to your production branch.  Common
 When finishing a hotfix, GitKraken Client will merge the changes into both `master` and `develop`.
 
 <img src="/img/documentation/repositories/finish-hotfix.gif" class="img-bordered img-responsive center">
-
-### Making a change to a Gitflow branch
